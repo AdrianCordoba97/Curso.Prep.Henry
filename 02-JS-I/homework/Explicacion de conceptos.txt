@@ -1,0 +1,27 @@
+* Variables.
+  Las variables cosas como números o oraciones o palabras que se usan en el programa para hacer cosas
+como sumar las variables o usarlas para otras cosas. Por ejemplo: Escribí una variable
+que después voy a usar que se llama 'númeroUno' y otra que se llama 'númeroDos'. El 'numeroUno'
+es un número que es 5, y la segunda variable, la 'númeroDos' es 7. Si quiero sumarlas,
+escribo en la pantalla: "númeroUno + númeroDos" y, como númeroUno es 5 y númeroDos 7 se suman los números
+5 + 7 que me da 12, osea, númeroUno + númeroDos que es 12.
+
+* Strings.
+  Los strings son variables que son oraciones o palabras.
+
+* Funciones (argumentos, 'return').
+  Las funciones son cosas escritas que van entre llaves ({ y }) y pueden tener argumentos, 
+o sea, variables que se usan dentro de las llaves, o tambien puede no tener nada. El motivo para 
+tener funciones es para no escribir todo el código de vuelta para hacer lo que la función puede hacer.
+El return es el valor que la función manda cuando esa función es invocada, o sea, cuando se usa. 
+
+* Declaraciones 'if'.
+  Las declaraciones 'if' son condiciones, o sea, el programa ve si algo es verdad o no, como ser, que
+si una variable es mas grande que, por ejemplo, 10, la computadora hace una cosa, y sino, hace otra.
+
+* Valores booleanos ('true', 'false').
+  Los valores booleanos son, como decir, variables pero pueden ser dos nomás: true, que quiere
+decir verdad, y false, que quiere decir falso. Por ejemplo: hice un programa que diga si una persona
+tiene más de 18 años. Si la condición es verdadera, el programa me escribe en la pantalla
+un true, o sea que es verdad. Y si la persona tiene menos de 18, el programa me escribe un false, 
+como que la persona no tiene más de 18 años.
