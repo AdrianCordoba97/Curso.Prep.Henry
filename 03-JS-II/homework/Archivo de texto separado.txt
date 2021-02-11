@@ -1,0 +1,9 @@
+* bucle 'for'
+  El bucle for es una herramienta que usa un programador para no tener que repetir muchas veces el mismo
+código. El bucle lo repite para vos.
+
+* Operadores lógicos '&&', '||' y '!'
+  El operador lógico '&&' es para ver si dos variables cumplen tal condición al mismo tiempo.
+El operador '||' es para ver si uno de las variables cumplen una condición, y el de '!' es de negación, 
+por ejemplo, el '!= 2' dice que tal variable no cumple esa condición, o si '!= true' la expresión 
+es falsa.
